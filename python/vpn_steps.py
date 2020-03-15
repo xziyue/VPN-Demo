@@ -221,7 +221,7 @@ step.set_arrow_emph('nwk-user-2-vs')
 step.prepend_packet_layer('Data', '')
 step.prepend_packet_layer('TCP', 'src port=56630\ndst port=23')
 step.prepend_packet_layer('IP', 'src IP=10.0.5.56\ndst IP=10.0.1.3')
-step.prepend_packet_layer('UDP', 'src port=56632\n\dst port=1194')
+step.prepend_packet_layer('UDP', 'src port=56632\ndst port=1194')
 step.prepend_packet_layer('IP', 'src IP=67.244.154.12\ndst IP=128.230.84.25')
 step.set_description([
     'The routing table decides that the packet should go through eth0. Therefore, '
