@@ -2,6 +2,8 @@
 
 An interactive demonstration of how VPN works.
 
+The (older version) of the demo is deployed at <www.alanshawn.com/vpn-demo>.
+
 ![screenshot](./misc/site_screenshot.png)
 
 ## How to modify the site
@@ -13,3 +15,8 @@ An interactive demonstration of how VPN works.
 ## How to view the site locally
 
 Run `./python/run_html_server.py` (requires Python 3).
+
+## TODO
+
+- [ ] Add return trip
+- [ ] Check correctness
