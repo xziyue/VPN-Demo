@@ -2,7 +2,7 @@
 
 An interactive demonstration of how VPN works.
 
-The (older version) of the demo is deployed at [www.alanshawn.com/vpn-demo](www.alanshawn.com/vpn-demo).
+The (older version) of the demo is deployed at <https://www.alanshawn.com/vpn-demo>.
 
 ![screenshot](./misc/site_screenshot.png)
 
